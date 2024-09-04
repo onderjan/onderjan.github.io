@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Personal page of Jan Onderka
+
 ---
-# Welcome
 
 I am a doctoral candidate at the Czech Technical University in Prague, researching formal verification of machine-code systems. I am also interested in processor design and signal processing (both analog and digital), especially in the context of audio. 
 
